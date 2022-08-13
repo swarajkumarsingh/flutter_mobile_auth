@@ -1,16 +1,50 @@
-# flutter_auth_package
 
-A new Flutter project.
 
-## Getting Started
+# Flutter Mobile Auth Package
 
-This project is a starting point for a Flutter application.
+This Package is a good starter, of Mobile Auth, with many error handling, and clean code, and al predifined stuff done here. you just need to setup-firebase, and download the Packages, then you are done.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 About Me
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Swaraj Kumar Singh - Web, Andriod, IOS, Full Stack developer, Also interested in AI models and Machine Learning.
+
+
+## 🛠 Skills
+Javascript, HTML, CSS, REACT, ANGULAR, BOOTSTRAP, TAILWIND, TYPESCRIPT, PHP, NODEJS, DJANGO, EXPRESSJS, MONGODB, FIREBASE, REDIS, WORDPRESS, DYNAMODB, AWS, PYTHON, WEB SCRAPING, SOCKET.IO, JAVA, KOTLIN, DART, FLUTTER, PYTORCH
+
+
+## Follow me links
+
+ - [Instagram](https://www.instagram.com/swaraj_singh_444)
+ - [Twitter](https://twitter.com/SwarajKumarSi16)
+ - [Linkedin](https://www.linkedin.com/in/swaraj-kumar-a65ab922a/)
+
+
+## Packages
+
+Packages Needed to be install
+
+```bash
+  flutter pub get firebase_auth firebase_core get_storage http get file_picker connectivity_plus fluttertoast
+```
+
+
+## Tech Stack
+
+**Client:** Flutter
+
+**Server:** Node, Express, Firebase
+
+
+## 🔗 Links
+[![portfolio](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/swaraj_singh_444/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-kumar-a65ab922a/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SwarajKumarSi16)
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at swaraj.singh.12.2006@gmail.com
+
