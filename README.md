@@ -13,14 +13,6 @@ Swaraj Kumar Singh - Web, Andriod, IOS, Full Stack developer, Also interested in
 ## 🛠 Skills
 Javascript, HTML, CSS, REACT, ANGULAR, BOOTSTRAP, TAILWIND, TYPESCRIPT, PHP, NODEJS, DJANGO, EXPRESSJS, MONGODB, FIREBASE, REDIS, WORDPRESS, DYNAMODB, AWS, PYTHON, WEB SCRAPING, SOCKET.IO, JAVA, KOTLIN, DART, FLUTTER, PYTORCH
 
-
-## Follow me links
-
- - [Instagram](https://www.instagram.com/swaraj_singh_444)
- - [Twitter](https://twitter.com/SwarajKumarSi16)
- - [Linkedin](https://www.linkedin.com/in/swaraj-kumar-a65ab922a/)
-
-
 ## Packages
 
 Packages Needed to be install
@@ -38,7 +30,7 @@ Packages Needed to be install
 
 
 ## 🔗 Links
-[![portfolio](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/swaraj_singh_444/)
+[![portfolio]([https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg](https://swall.teahub.io/photos/small/41-418673_instagram-photo-full-hd.jpg))](https://www.instagram.com/swaraj_singh_444/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-kumar-a65ab922a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SwarajKumarSi16)
 
