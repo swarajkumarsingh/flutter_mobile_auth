@@ -30,7 +30,6 @@ Packages Needed to be install
 
 
 ## 🔗 Links
-[![portfolio]([https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://cdn.iconscout.com/icon/free/png-256/instagram-1946323-1646407.png))]([https://www.linkedin.com/in/swaraj-kumar-a65ab922a/](https://www.instagram.com/swaraj_singh_444/))
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swaraj-kumar-a65ab922a/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SwarajKumarSi16)
 
